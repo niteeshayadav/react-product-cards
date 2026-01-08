@@ -10,4 +10,4 @@ using props and array mapping.
 - Tailwind CSS styling
 
 ---
-### 🔗Live : react-product-cards.netlify.app
+### 🔗Live : https://react-product-cards.netlify.app
