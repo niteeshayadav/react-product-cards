@@ -9,5 +9,4 @@ using props and array mapping.
 - Rendering lists using map()
 - Tailwind CSS styling
 
----
 ### 🔗Live : https://react-product-cards.netlify.app
